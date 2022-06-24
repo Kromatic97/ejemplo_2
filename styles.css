@@ -1,31 +1,37 @@
 body{
-    margin: center;
-    background-color: #EE81B3;
-    color:black;
+    color:wheat;
+    width: 800px;
+    height: 800px;
 }
 
 img{
-    width: 280px;
+    width: 290px;
     height: 380px;
-    border-color: coral;
-    border: 2px;
+    border-color: none;
+    border-radius: 5%;
     
 }
 
 .fotito{
 margin: auto;
-background-color: lightcoral;
-display: inline-block;
-border: 2px;
-border-color: aquamarine;
+padding-top: 20px;
+background-color: #FFE6E6;
+border-color:none;
+text-align: center;
 }
 
 h1{
+    background-color: #C70A80;
     text-align: center;
     text-decoration: double;
+    border-radius: 30px;
 }
 
 h2{
+    padding-top: 20px;
+    background-color: #FF5D5D;
     text-align: center;
     text-decoration: double;
+    border-radius: 50px;
+    
 }
