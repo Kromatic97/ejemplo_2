@@ -4,9 +4,12 @@ body{
 }
 
 img{
-    margin: auto;
-    width: 180px;
-    height: 180px;
-    border-radius: 0,5;
-    border-color: black;
+    width: 280px;
+    height: 380px;
+    border-color: coral;
+    
+}
+
+.fotito{
+background-color: lightcoral;
 }
