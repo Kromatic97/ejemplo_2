@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: #EE81B3;
     color:black;
 }
 
@@ -7,10 +7,13 @@ img{
     width: 280px;
     height: 380px;
     border-color: coral;
+    border: 2px;
     
 }
 
 .fotito{
 background-color: lightcoral;
 display: inline-block;
+border: 2px;
+border-color: aquamarine;
 }
