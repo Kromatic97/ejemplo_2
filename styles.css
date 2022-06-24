@@ -12,8 +12,14 @@ img{
 }
 
 .fotito{
+margin: auto;
 background-color: lightcoral;
 display: inline-block;
 border: 2px;
 border-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    text-decoration: double;
 }
